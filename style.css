@@ -1,0 +1,13 @@
+.Options{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    border-width: 0px;
+    box-shadow: 10px 5px 10px grey;
+    font-weight: bold;
+}
+.heading{
+    border-radius: 20px;
+    font-size: 30px;
+}
